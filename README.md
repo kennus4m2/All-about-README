@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A8CD8&center=true&vCenter=true&width=435&lines=BSCS+Student+%7C+Java+Enthusiast;Online+Gamer+%7C+Tech+Explorer;Learning%2C+Coding%2C+Gaming" alt="Animated typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A8CD8&center=true&vCenter=true&width=435&lines=BSCS+Student+%7C+Java+%26+C%2B%2B+Enthusiast;Online+Gamer+%7C+Tech+Explorer;Learning%2C+Coding%2C+Gaming" alt="Animated typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## 👨‍🎓 About Me
 
 - 🎓 BSCS Student at **Sorsogon State University**
-- 💻 Passionate about **Java programming**
+- 💻 Passionate about **Java** and **C++ programming**
 - 🕹️ Online gamer & tech explorer
 - 🤝 Always eager to collaborate and learn
 
@@ -21,6 +21,7 @@
 ## 🛠️ Skills & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-5B5B5B?style=for-the-badge)
 ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-0077B6?style=for-the-badge)
 
@@ -53,5 +54,5 @@
 
 <!-- Footer with a quote or motto -->
 <p align="center">
-  <i>“Strive not to be a success, but rather to be of value.”</i>
+  <i>“The true sign of intelligence is not knowledge, but imagination!”</i>
 </p>
