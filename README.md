@@ -1,36 +1,57 @@
-# 👋 Hi, I’m kennus4m2!
+<!-- Animated Header with waving hand emoji -->
+<h1 align="center">
+  Hi there, I'm kennus4m2! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
-**BSCS Student at Sorsogon State University**
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 Currently pursuing a Bachelor of Science in Computer Science.
-- 💻 Coding in **Java** is my forte.
-- 🕹️ Proud **online gamer**—always up for a challenge!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1A8CD8&center=true&vCenter=true&width=435&lines=BSCS+Student+%7C+Java+Enthusiast;Online+Gamer+%7C+Tech+Explorer;Learning%2C+Coding%2C+Gaming" alt="Animated typing SVG" />
+</p>
 
 ---
 
-### 🚀 Skills
+## 👨‍🎓 About Me
 
-- Java programming
-- Problem solving
-- Team collaboration
-
----
-
-### 🌐 Connect with Me
-
-- Facebook: [https://www.facebook.com/kuya.nicks.on]
-- Instagram: [https://www.instagram.com/kennunut]
+- 🎓 BSCS Student at **Sorsogon State University**
+- 💻 Passionate about **Java programming**
+- 🕹️ Online gamer & tech explorer
+- 🤝 Always eager to collaborate and learn
 
 ---
 
-### 💡 Fun Fact
+## 🛠️ Skills & Tools
 
-When I’m not coding or studying, you’ll probably find me gaming online!
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-5B5B5B?style=for-the-badge)
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-0077B6?style=for-the-badge)
 
 ---
 
-![Kennus4m2's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennus4m2&show_icons=true&theme=tokyonight)
+## 🌐 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+
+---
+
+## ⚡ Fun Fact
+
+> When I'm not coding or studying, you’ll probably find me in the middle of an intense online game match!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kennus4m2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennus4m2&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kennus4m2&theme=tokyonight" alt="Profile Summary Card" />
+</p>
+
+---
+
+<!-- Footer with a quote or motto -->
+<p align="center">
+  <i>“Strive not to be a success, but rather to be of value.”</i>
+</p>
