@@ -21,6 +21,7 @@
 - 🕹️ Online gamer & tech explorer
 - 🤝 Always eager to collaborate and learn
 - ✨ **Newbie** +_+
+- 🚦  Started on Oct 7, 2025
 ---
 
 ## 🛠️ Skills & Tools
