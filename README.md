@@ -17,10 +17,10 @@
 ## 👨‍🎓 About Me
 
 - 🎓 BSCS Student at **Sorsogon State University**
-- 💻 Passionate about **Java** and **C++ programming**
+- 💻 Passionate about **Java** and **C++ programming** (**Python???**)
 - 🕹️ Online gamer & tech explorer
 - 🤝 Always eager to collaborate and learn
-
+- ✨ **Newbie** +_+
 ---
 
 ## 🛠️ Skills & Tools
