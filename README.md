@@ -23,6 +23,7 @@
 - ✨ **Newbie** +_+
 - 🚀 Started on Oct 7, 2025
 ---
+![Profile views](https://komarev.com/ghpvc/?username=kennus4m2&color=blueviolet)
 
 ## 🛠️ Skills & Tools
 
@@ -44,6 +45,13 @@
   </a>
   <a href="YOUR_INSTAGRAM_URL" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Large Profile Views Counter under Connect with Me -->
+<p align="center">
+  <a href="https://github.com/kennus4m2">
+    <img src="https://komarev.com/ghpvc/?username=kennus4m2&style=for-the-badge&color=F70000&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
 </p>
 
