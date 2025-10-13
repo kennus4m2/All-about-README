@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Animated gradient "BSCS Student" typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=F70000&background=0D1117&center=true&vCenter=true&width=450&lines=BSCS+Student" alt="Animated gradient typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1500&color=F70000&background=0D1117&center=true&vCenter=true&width=450&lines=BSCS+Student" alt="Animated gradient typing SVG" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=1A8CD8&center=true&vCenter=true&width=470&lines=Java+%26+C%2B%2B+Enthusiast;Online+Gamer+%7C+Tech+Explorer;Learning%2C+Coding%2C+Gaming" alt="Animated typing SVG" />
 </p>
