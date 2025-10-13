@@ -1,6 +1,6 @@
 <!-- Animated Header with waving hand emoji -->
 <h1 align="center" style="font-size: 3em;">
-  Hi there, I'm kennus4m2! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
+  Hello everybody, I'm kennus4m2! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 👨‍🎓 About Me
 
 - 🎓 BSCS Student at **Sorsogon State University**
-- 💻 Passionate about **Java** and **C++ programming**
+- 💻 Passionate about **Java**
 - 🕹️ Online gamer & tech explorer
 - 🤝 Always eager to collaborate and learn
 
